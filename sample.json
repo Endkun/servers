@@ -1,0 +1,35 @@
+{
+    "user": [{
+        "password": "aaaaa",
+        "name": "a",
+        "money": 300,
+        "email": "a@example.com"
+    },
+    {
+        "password": "tett",
+        "name": "tesuto",
+        "money": 300,
+        "email": "test@gmail.com"
+    }]
+}
+
+{
+    "a@example.com": {
+        "password": "aaaaa",
+        "name": "a",
+        "money": 300,
+        "email": "a@example.com"
+    },
+    "test@gmail.com": {
+        "password": "tett",
+        "name": "tesuto",
+        "money": 300,
+        "email": "test@gmail.com"
+    },
+    "test2@a.com": {
+        "password": "test2",
+        "name": "test2",
+        "money": 300,
+        "email": "test2@a.com"
+    }
+}

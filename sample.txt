@@ -1,0 +1,10 @@
+{'a@example.com': {'password': 'aa', 'name': 'aa', 'money': 300}}
+{'a@example.com': {'password': 'cb', 'name': 'ab', 'money': 300}}
+{'a@example.com': {'password': 'cc', 'name': 'ac', 'money': 300}}
+{'a@example.com': {'password': 'ab', 'name': 'ad', 'money': 300}}
+{users:[
+{'email':a.com,'password':aa,name:'a'}
+{'email':a.com,'password':ba,name'b'}
+{'email':a.com,'password':baa,name'c'}
+{'email':a.com,'password':baaa,name'd'}
+]}

@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "tesuto@gmail.com",
+      "password": "tesuto",
+      "name": "test"
+    },
+    {
+      "email": "bccbc@gmail.com",
+      "password": "tekitou",
+      "name": "tekitou"
+    },
+    {
+      "email": "newemail",
+      "password": "newpassword",
+      "name": "newname"
+    },
+    {
+      "email": "loginmail",
+      "password": "login",
+      "name": "login"
+    },
+    {
+      "email": "data@gmail.com",
+      "password": "dataword",
+      "name": "data"
+    }
+  ]
+}
